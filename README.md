@@ -1,2 +1,2 @@
 # formation-devops-pratique
-test githunb tools
+test GITHUB tools
